@@ -32,6 +32,7 @@ app.use(shopRoutes);
 
 app.use(errorController.get404);
 
+
 mongoose
   .connect(
     "mongodb+srv://muthu:2Ggt6nPXlInpYELU@cluster1.0uxfax0.mongodb.net/?retryWrites=true&w=majority",
