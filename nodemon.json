@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGODB_USER": "muthu",
+        "MONGODB_PASSWORD": "2Ggt6nPXlInpYELU",
+        "MONGODB_NAME": "Shop-DB",
+        "STRIPE_KEY": "sk_test_51N3CiISBkEAEnGyOxGmUYkkxYwjayW30tG10AjycDqWtvm78vUK6sy6yqHJyKhjkaQ4dtPHqXBJ5w1cpWXnbrU280066jIKXIR"
+    }
+}
